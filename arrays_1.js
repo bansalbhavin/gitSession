@@ -1,4 +1,4 @@
-var grades = [100, 50];
+var grades = [100, 50, 120, 130, 140];
 
 //add new value to array at the end of an array
 grades.push(98);
